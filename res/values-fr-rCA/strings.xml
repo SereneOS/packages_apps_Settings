@@ -20,7 +20,7 @@
     <string name="no" msgid="6731231425810196216">"Non"</string>
     <string name="create" msgid="3578857613172647409">"Créer"</string>
     <string name="allow" msgid="3349662621170855910">"Autoriser"</string>
-    <string name="deny" msgid="6947806159746484865">"Refusers"</string>
+    <string name="deny" msgid="6947806159746484865">"Refuser"</string>
     <string name="dlg_close" msgid="7471087791340790015">"Fermer"</string>
     <string name="dlg_switch" msgid="6243971420240639064">"Changer"</string>
     <string name="device_info_default" msgid="7847265875578739287">"Inconnu"</string>
@@ -343,7 +343,7 @@
     <string name="date_time_set_timezone" msgid="5045627174274377814">"Sélectionner le fuseau horaire"</string>
     <string name="date_time_set_date_title" msgid="6928286765325608604">"Date"</string>
     <string name="date_time_set_date" msgid="7021491668550232105">"Définir la date"</string>
-    <string name="date_time_search_region" msgid="2478334699004021972">"Région de recherche"</string>
+    <string name="date_time_search_region" msgid="2478334699004021972">"Rechercher une région"</string>
     <string name="date_time_select_region" msgid="5434001881313168586">"Région"</string>
     <string name="date_time_select_zone" msgid="8883690857762652278">"Fuseau horaire"</string>
     <string name="date_time_set_timezone_in_region" msgid="7935631939393423886">"Fuseaux horaires pour : <xliff:g id="REGION">%1$s</xliff:g>"</string>
@@ -856,6 +856,7 @@
     <string name="wifi_ap_choose_auto" msgid="2677800651271769965">"Auto"</string>
     <string name="wifi_ap_choose_2G" msgid="8724267386885036210">"Bande de 2,4 GHz"</string>
     <string name="wifi_ap_choose_5G" msgid="8813128641914385634">"Bande de 5 GHz"</string>
+    <string name="wifi_ap_prefer_5G" msgid="2501070491623803139">"Préférer la bande de 5,0 GHz"</string>
     <string name="wifi_ap_2G" msgid="8378132945192979364">"2,4 GHz"</string>
     <string name="wifi_ap_5G" msgid="4020713496716329468">"5 GHz"</string>
     <string name="wifi_ap_band_select_one" msgid="3476254666116431650">"Choisissez au moins une bande pour le point d\'accès Wi-Fi :"</string>
@@ -1067,7 +1068,7 @@
     <string name="color_mode_option_natural" msgid="5013837483986772758">"Naturelles"</string>
     <string name="color_mode_option_boosted" msgid="8588223970257287524">"Intenses"</string>
     <string name="color_mode_option_saturated" msgid="4569683960058798843">"Saturées"</string>
-    <string name="color_mode_option_automatic" msgid="8781254568140509331">"Automatique"</string>
+    <string name="color_mode_option_automatic" msgid="7996505473528529568">"Adaptatif"</string>
     <string name="color_mode_summary_natural" msgid="6624188642920403099">"Utiliser uniquement les couleurs précises"</string>
     <string name="color_mode_summary_automatic" msgid="4669516973360709431">"Ajuster entre les couleurs vives et précises"</string>
     <string name="accelerometer_summary_on" product="tablet" msgid="429982132339828942">"Changer automatiquement d\'orientation lors de la rotation de la tablette"</string>
@@ -2329,7 +2330,7 @@
     <string name="battery_saver_auto_title" msgid="8368709389419695611">"Activer automatiquement"</string>
     <string name="battery_saver_seekbar_title" msgid="4705356758573183963">"À <xliff:g id="PERCENT">%1$s</xliff:g>"</string>
     <string name="battery_saver_seekbar_title_placeholder" msgid="1138980155985636295">"Activer"</string>
-    <string name="battery_saver_master_switch_title" msgid="622539414546588436">"Utiliser le mode Économie d\'énergie"</string>
+    <string name="battery_saver_master_switch_title" msgid="622539414546588436">"Utiliser le mode Économiseur de pile"</string>
     <string name="battery_saver_turn_on_automatically_title" msgid="9023847300114669426">"Activer automatiquement"</string>
     <string name="battery_saver_turn_on_automatically_never" msgid="6610846456314373">"Jamais"</string>
     <string name="battery_saver_turn_on_automatically_pct" msgid="8665950426992057191">"à <xliff:g id="PERCENT">%1$s</xliff:g> d\'autonomie restante"</string>
@@ -3100,7 +3101,7 @@
     <string name="zen_mode_restrict_notifications_hide" msgid="5305121630186687339">"Aucun élément visuel ni son provenant des notifications"</string>
     <string name="zen_mode_restrict_notifications_hide_summary" msgid="7555448406901864904">"Vous ne verrez et n\'entendrez pas de notifications"</string>
     <string name="zen_mode_restrict_notifications_hide_footer" msgid="6559283246372102465">"Aucune notification (nouvelle ou existante) n\'est visible. Le téléphone n\'émet aucun son et ne vibre pas. Aucune notification ne s\'affiche lorsque vous balayez l\'écran vers le bas.\n\nÀ titre de rappel, les notifications nécessaires pour l\'activité du téléphone et son état s\'afficheront toujours."</string>
-    <string name="zen_mode_restrict_notifications_custom" msgid="7498689167767941034">"Personnalisés"</string>
+    <string name="zen_mode_restrict_notifications_custom" msgid="7498689167767941034">"Personnalisées"</string>
     <string name="zen_mode_restrict_notifications_enable_custom" msgid="4250962169561739747">"Activer les paramètres personnalisés"</string>
     <string name="zen_mode_restrict_notifications_disable_custom" msgid="6676997522330453597">"Supprimer les paramètres personnalisés"</string>
     <string name="zen_mode_restrict_notifications_summary_muted" msgid="5450158135853888485">"Aucun son des notifications"</string>
@@ -3163,7 +3164,7 @@
     <string name="zen_sound_two_allowed" msgid="980491120444358550">"Désactivés, mais autoriser : <xliff:g id="SOUND_TYPE_0">%1$s</xliff:g> et <xliff:g id="SOUND_TYPE_1">%2$s</xliff:g>"</string>
     <string name="zen_sound_three_allowed" msgid="3455767205934547985">"Désactivés, mais autoriser : <xliff:g id="SOUND_TYPE_0">%1$s</xliff:g>, <xliff:g id="SOUND_TYPE_1">%2$s</xliff:g> et <xliff:g id="SOUND_TYPE_2">%3$s</xliff:g>"</string>
     <string name="zen_msg_event_reminder_title" msgid="5137894077488924820">"Messages, événements et rappels"</string>
-    <string name="zen_msg_event_reminder_footer" msgid="3242847055412790819">"Lorsque le mode Ne pas déranger est activé, le son des messages, des rappels et des événements est coupé, sauf pour les éléments autorisés ci-dessus. Vous pouvez régler les paramètres des messages pour que vos proches ou d\'autres contacts puissent quand même vous joindre."</string>
+    <string name="zen_msg_event_reminder_footer" msgid="4376930591019535192">"Lorsque le mode Ne pas déranger est activé, le son des messages, des rappels et des événements est coupé, sauf pour les éléments autorisés ci-dessus. Vous pouvez régler les paramètres des messages pour que vos proches ou d\'autres contacts puissent quand même vous joindre."</string>
     <string name="zen_onboarding_ok" msgid="6131211000824433013">"OK"</string>
     <string name="zen_onboarding_settings" msgid="9046451821239946868">"Paramètres"</string>
     <string name="zen_onboarding_new_setting_title" msgid="1893095176110470711">"Aucun élément visuel ni son provenant des notifications"</string>
@@ -3238,7 +3239,7 @@
       <item quantity="other">%d application peuvent lire les notifications</item>
     </plurals>
     <string name="no_notification_listeners" msgid="3487091564454192821">"Aucune demande d\'accès aux notifications n\'a été envoyée pour les applications installées."</string>
-    <string name="notification_listener_security_warning_title" msgid="5522924135145843279">"Autoriser <xliff:g id="SERVICE">%1$s</xliff:g> à accéder aux notifications ?"</string>
+    <string name="notification_listener_security_warning_title" msgid="5522924135145843279">"Autoriser <xliff:g id="SERVICE">%1$s</xliff:g> à accéder aux notifications?"</string>
     <string name="notification_listener_security_warning_summary" msgid="119203147791040151">"<xliff:g id="NOTIFICATION_LISTENER_NAME">%1$s</xliff:g> pourra lire toutes les notifications, y compris des données personnelles, telles que des noms de contacts et le texte des messages que vous recevez. Ce service pourra également masquer des notifications ou déclencher les boutons d\'action que celles-ci contiennent. \n\nCela permettra également à l\'application d\'activer et de désactiver la fonction Ne pas déranger et de modifier les paramètres connexes."</string>
     <string name="notification_listener_disable_warning_summary" msgid="6738915379642948000">"Si vous désactivez l\'accès aux notifications pour <xliff:g id="NOTIFICATION_LISTENER_NAME">%1$s</xliff:g>, l\'accès à la fonction Ne pas déranger peut également être désactivé."</string>
     <string name="notification_listener_disable_warning_confirm" msgid="8333442186428083057">"Désactiver"</string>
@@ -3585,7 +3586,7 @@
     <string name="usb_use_MIDI_desc" msgid="8473936990076693175">"Utiliser cet appareil en tant que MIDI"</string>
     <string name="usb_use" msgid="3372728031108932425">"Utiliser la connexion USB pour :"</string>
     <string name="usb_default_label" msgid="2211094045594574774">"Configuration USB par défaut"</string>
-    <string name="usb_default_info" msgid="8864535445796200695">"Lorsqu\'un autre appareil sera connecté et que votre téléphone sera déverrouillé, ces paramètres seront appliqués. Connectez-vous uniquement aux appareils fiables."</string>
+    <string name="usb_default_info" msgid="8864535445796200695">"Lorsqu\'un autre appareil sera connecté et que votre téléphone sera déverrouillé, ces paramètres seront appliqués. Connectez-vous uniquement aux appareils de confiance."</string>
     <string name="usb_pref" msgid="1400617804525116158">"USB"</string>
     <string name="usb_preference" msgid="7394265019817945275">"Préférences USB"</string>
     <string name="usb_control_title" msgid="4404322722995917160">"USB contrôlé par"</string>

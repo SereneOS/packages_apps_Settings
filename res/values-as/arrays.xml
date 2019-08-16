@@ -61,7 +61,7 @@
   </string-array>
   <string-array name="entries_font_size">
     <item msgid="8166647333858618801">"সৰু"</item>
-    <item msgid="6986443533756848935">"ডিফ\'ল্ট"</item>
+    <item msgid="6986443533756848935">"ডিফ’ল্ট"</item>
     <item msgid="38373998008112077">"ডাঙৰ"</item>
     <item msgid="7635254317531872272">"সকলোতকৈ ডাঙৰ"</item>
   </string-array>
@@ -85,7 +85,7 @@
     <item msgid="355508996603873860">"<xliff:g id="NETWORK_NAME">%1$s</xliff:g>ৰ সৈতে সংযোগ কৰি থকা হৈছে…"</item>
     <item msgid="554971459996405634">"<xliff:g id="NETWORK_NAME">%1$s</xliff:g>ৰ জৰিয়তে সত্যাপন কৰি থকা হৈছে…"</item>
     <item msgid="7928343808033020343">"<xliff:g id="NETWORK_NAME">%1$s</xliff:g>ৰ আইপি ঠিকনা পৰা সংগ্ৰহ কৰি থকা হৈছে…"</item>
-    <item msgid="8937994881315223448">"<xliff:g id="NETWORK_NAME">%1$s</xliff:g>ৰ সৈতে সংযোগ কৰা হ\'ল"</item>
+    <item msgid="8937994881315223448">"<xliff:g id="NETWORK_NAME">%1$s</xliff:g>ৰ সৈতে সংযোগ কৰা হ’ল"</item>
     <item msgid="1330262655415760617">"স্থগিত"</item>
     <item msgid="7698638434317271902">"<xliff:g id="NETWORK_NAME">%1$s</xliff:g>ৰ পৰা সংযোগ বিচ্ছিন্ন কৰি থকা হৈছে…"</item>
     <item msgid="197508606402264311">"সংযোগ বিচ্ছিন্ন"</item>
@@ -121,12 +121,6 @@
     <item msgid="3079489731769553856">"TTLS"</item>
     <item msgid="35269224158638258">"PWD"</item>
   </string-array>
-    <!-- no translation found for wifi_ap_band_config_full:0 (1085243288162893079) -->
-    <!-- no translation found for wifi_ap_band_config_full:1 (5531376834915607202) -->
-    <!-- no translation found for wifi_ap_band_summary_full:0 (7176872102094020362) -->
-    <!-- no translation found for wifi_ap_band_summary_full:1 (311895158827229479) -->
-    <!-- no translation found for wifi_ap_band_config_2G_only:0 (7006771583217001015) -->
-    <!-- no translation found for wifi_ap_band_config_2G_only:1 (8904289885593822837) -->
   <string-array name="wifi_p2p_wps_setup">
     <item msgid="5085064298144493867">"পুশ্ব বুটাম"</item>
     <item msgid="1624323946324499595">"সংযুক্ত ডিভাইচৰ পৰা পিন"</item>
@@ -287,7 +281,7 @@
     <item msgid="4547883971364273343">"অডিঅ\' ফ\'কাছ"</item>
     <item msgid="2603878814882344450">"মাষ্টাৰ ভলিউম"</item>
     <item msgid="7136963238377062018">"ধ্বনিৰ ভলিউম"</item>
-    <item msgid="4270236897655923007">"ৰিংৰ ভলিউম"</item>
+    <item msgid="4270236897655923007">"ৰিঙৰ ভলিউম"</item>
     <item msgid="6325739889222559394">"মিডিয়াৰ ভলিউম"</item>
     <item msgid="5762123934816216821">"এলাৰ্মৰ ভলিউম"</item>
     <item msgid="785049718065337473">"জাননীৰ ভলিউম"</item>
@@ -354,7 +348,7 @@
     <item msgid="3265262911688671938">"অডিঅ\' ফ\'কাছ"</item>
     <item msgid="2098976479485046797">"মাষ্টাৰ ভলিউম"</item>
     <item msgid="5660213838861789350">"কণ্ঠস্বৰৰ ভলিউম"</item>
-    <item msgid="7983336752371254444">"ৰিংৰ ভলিউম"</item>
+    <item msgid="7983336752371254444">"ৰিঙৰ ভলিউম"</item>
     <item msgid="7878027809189330917">"মধ্যমীয়া ভলিউম"</item>
     <item msgid="7260546305036218513">"এলাৰ্মৰ ভলিউম"</item>
     <item msgid="9103719301075748925">"জাননীৰ ভলিউম"</item>

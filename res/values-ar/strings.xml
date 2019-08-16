@@ -900,6 +900,7 @@
     <string name="wifi_ap_choose_auto" msgid="2677800651271769965">"تلقائي"</string>
     <string name="wifi_ap_choose_2G" msgid="8724267386885036210">"نطاق بتردد ٢٫٤ غيغاهرتز"</string>
     <string name="wifi_ap_choose_5G" msgid="8813128641914385634">"نطاق بتردد 5.0 غيغاهرتز"</string>
+    <string name="wifi_ap_prefer_5G" msgid="2501070491623803139">"يفضّل نطاق بتردد 5.0 غيغاهرتز"</string>
     <string name="wifi_ap_2G" msgid="8378132945192979364">"٢٫٤ غيغاهرتز"</string>
     <string name="wifi_ap_5G" msgid="4020713496716329468">"5.0 غيغاهرتز"</string>
     <string name="wifi_ap_band_select_one" msgid="3476254666116431650">"‏اختر نطاقًا واحدًا على الأقل لنقطة اتصال Wi‑Fi:"</string>
@@ -1115,7 +1116,7 @@
     <string name="color_mode_option_natural" msgid="5013837483986772758">"طبيعي"</string>
     <string name="color_mode_option_boosted" msgid="8588223970257287524">"مُحسن"</string>
     <string name="color_mode_option_saturated" msgid="4569683960058798843">"مُشبع"</string>
-    <string name="color_mode_option_automatic" msgid="8781254568140509331">"تلقائي"</string>
+    <string name="color_mode_option_automatic" msgid="7996505473528529568">"توافقي"</string>
     <string name="color_mode_summary_natural" msgid="6624188642920403099">"استخدام الألوان الدقيقة فقط"</string>
     <string name="color_mode_summary_automatic" msgid="4669516973360709431">"ضبط إلى التبديل بين الألوان الزاهية والدقيقة"</string>
     <string name="accelerometer_summary_on" product="tablet" msgid="429982132339828942">"تبديل الاتجاه تلقائيًا عند تدوير الجهاز اللوحي"</string>
@@ -1291,7 +1292,7 @@
     <string name="status_operator" msgid="2274875196954742087">"الشبكة"</string>
     <string name="status_wifi_mac_address" msgid="2202206684020765378">"‏عنوان Mac لشبكة Wi-Fi"</string>
     <string name="status_bt_address" msgid="4195174192087439720">"عنوان البلوتوث"</string>
-    <string name="status_serial_number" msgid="2257111183374628137">"الرقم المسلسل"</string>
+    <string name="status_serial_number" msgid="2257111183374628137">"الرقم المتسلسل"</string>
     <string name="status_up_time" msgid="7294859476816760399">"وقت التشغيل"</string>
     <string name="status_awake_time" msgid="2393949909051183652">"وقت الوضع النشط"</string>
     <string name="internal_memory" msgid="9129595691484260784">"وحدة التخزين الداخلية"</string>
@@ -1509,7 +1510,7 @@
     <string name="reset_network_button_text" msgid="2035676527471089853">"إعادة ضبط الإعدادات"</string>
     <string name="reset_network_final_desc" msgid="6388371121099245116">"هل تريد إعادة تعيين كل إعدادات الشبكة؟ لا يمكنك التراجع عن هذا الإجراء!"</string>
     <string name="reset_network_final_button_text" msgid="1797434793741744635">"إعادة ضبط الإعدادات"</string>
-    <string name="reset_network_confirm_title" msgid="1759888886976962773">"هل تريد إعادة التعيين؟"</string>
+    <string name="reset_network_confirm_title" msgid="1759888886976962773">"هل تريد إعادة الضبط؟"</string>
     <string name="network_reset_not_available" msgid="7188610385577164676">"إعادة ضبط الشبكة ليست متاحة لهذا المستخدم"</string>
     <string name="reset_network_complete_toast" msgid="787829973559541880">"تمت إعادة تعيين إعدادات الشبكة"</string>
     <string name="reset_esim_error_title" msgid="1464195710538232590">"‏تتعذّر إعادة تعيين شرائح eSIM"</string>
@@ -2503,7 +2504,7 @@
     <string name="tts_install_voices_text" msgid="5292606786380069134">"متابعة استخدام تطبيق <xliff:g id="TTS_APP_NAME">%s</xliff:g> لتثبيت الأصوات"</string>
     <string name="tts_install_voices_open" msgid="667467793360277465">"فتح التطبيق"</string>
     <string name="tts_install_voices_cancel" msgid="4711492804851107459">"إلغاء"</string>
-    <string name="tts_reset" msgid="2661752909256313270">"إعادة التعيين"</string>
+    <string name="tts_reset" msgid="2661752909256313270">"إعادة الضبط"</string>
     <string name="tts_play" msgid="2628469503798633884">"تشغيل"</string>
     <string name="gadget_title" msgid="5519037532720577836">"التحكم في الطاقة"</string>
     <string name="gadget_toggle_wifi" msgid="319262861956544493">"‏تحديث إعداد Wi-Fi"</string>
@@ -3311,7 +3312,7 @@
     <string name="zen_sound_two_allowed" msgid="980491120444358550">"تمّ كتم الصوت مع السماح بكل من <xliff:g id="SOUND_TYPE_0">%1$s</xliff:g> و<xliff:g id="SOUND_TYPE_1">%2$s</xliff:g>."</string>
     <string name="zen_sound_three_allowed" msgid="3455767205934547985">"تمّ كتم الصوت مع السماح بكل من <xliff:g id="SOUND_TYPE_0">%1$s</xliff:g> و<xliff:g id="SOUND_TYPE_1">%2$s</xliff:g> و<xliff:g id="SOUND_TYPE_2">%3$s</xliff:g>."</string>
     <string name="zen_msg_event_reminder_title" msgid="5137894077488924820">"الرسائل والأحداث والتذكيرات"</string>
-    <string name="zen_msg_event_reminder_footer" msgid="3242847055412790819">"عند تفعيل الإعداد \"الرجاء عدم الإزعاج\"، سيتم تجاهل الإشعارات عن الرسائل والتذكيرات والأحداث، باستثناء الإشعارات التي تسمح بها أعلاه. يمكنك ضبط إعدادات الرسائل للسماح لأصدقائك أو أفراد عائلتك أو جهات الاتصال الأخرى بالتواصل معك."</string>
+    <string name="zen_msg_event_reminder_footer" msgid="4376930591019535192">"عند تفعيل الإعداد \"الرجاء عدم الإزعاج\"، سيتم تجاهل الإشعارات عن الرسائل والتذكيرات والأحداث، باستثناء الإشعارات التي تسمح بها أعلاه. يمكنك ضبط إعدادات الرسائل للسماح لأصدقائك أو أفراد عائلتك أو جهات الاتصال الأخرى بالتواصل معك."</string>
     <string name="zen_onboarding_ok" msgid="6131211000824433013">"تمّ"</string>
     <string name="zen_onboarding_settings" msgid="9046451821239946868">"الإعدادات"</string>
     <string name="zen_onboarding_new_setting_title" msgid="1893095176110470711">"بلا عناصر مرئيّة أو أصوات من الإشعارات."</string>
@@ -4025,7 +4026,7 @@
       <item quantity="one">قيد واحد</item>
     </plurals>
     <string name="operator_warning" msgid="1862988028996859195">"قد تختلف طريقة حساب بيانات مشغِّل شبكة الجوّال عن طريقة الحساب على الجهاز."</string>
-    <string name="data_used_template" msgid="3245919669966296505">"<xliff:g id="ID_1">%1$s</xliff:g> مستخدم"</string>
+    <string name="data_used_template" msgid="3245919669966296505">"<xliff:g id="ID_1">%1$s</xliff:g> مستخدَمة"</string>
     <string name="set_data_warning" msgid="6115364758236594593">"ضبط تحذيرات استخدام البيانات"</string>
     <string name="data_warning" msgid="209133958008062117">"تحذيرات البيانات"</string>
     <string name="data_warning_footnote" msgid="776341964125603711">"يتم قياس التحذيرات والحد الأقصى للبيانات بواسطة جهازك. وقد يختلف هذا القياس عن بيانات مشغِّل شبكة الجوّال."</string>

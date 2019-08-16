@@ -856,6 +856,7 @@
     <string name="wifi_ap_choose_auto" msgid="2677800651271769965">"Automático"</string>
     <string name="wifi_ap_choose_2G" msgid="8724267386885036210">"Banda de 2,4 GHz"</string>
     <string name="wifi_ap_choose_5G" msgid="8813128641914385634">"Banda de 5 GHz"</string>
+    <string name="wifi_ap_prefer_5G" msgid="2501070491623803139">"Banda de 5 GHz preferencial"</string>
     <string name="wifi_ap_2G" msgid="8378132945192979364">"2,4 GHz"</string>
     <string name="wifi_ap_5G" msgid="4020713496716329468">"5 GHz"</string>
     <string name="wifi_ap_band_select_one" msgid="3476254666116431650">"Escolha pelo menos uma banda para o ponto de acesso Wi-Fi:"</string>
@@ -1067,7 +1068,7 @@
     <string name="color_mode_option_natural" msgid="5013837483986772758">"Naturais"</string>
     <string name="color_mode_option_boosted" msgid="8588223970257287524">"Realçadas"</string>
     <string name="color_mode_option_saturated" msgid="4569683960058798843">"Saturadas"</string>
-    <string name="color_mode_option_automatic" msgid="8781254568140509331">"Automática"</string>
+    <string name="color_mode_option_automatic" msgid="7996505473528529568">"Adaptativo"</string>
     <string name="color_mode_summary_natural" msgid="6624188642920403099">"Usar apenas cores precisas"</string>
     <string name="color_mode_summary_automatic" msgid="4669516973360709431">"Ajuste entre cores vívidas e precisas"</string>
     <string name="accelerometer_summary_on" product="tablet" msgid="429982132339828942">"Alternar orientação automaticamente ao girar o tablet"</string>
@@ -2108,7 +2109,7 @@
     <string name="power_usage_level_and_status" msgid="7449847570973811784">"<xliff:g id="LEVEL">%1$s</xliff:g> - <xliff:g id="STATUS">%2$s</xliff:g>"</string>
     <string name="power_discharge_remaining" msgid="4925678997049911808">"<xliff:g id="REMAIN">%1$s</xliff:g> restantes"</string>
     <string name="power_charge_remaining" msgid="6132074970943913135">"<xliff:g id="UNTIL_CHARGED">%1$s</xliff:g> até carregar"</string>
-    <string name="background_activity_title" msgid="8482171736539410135">"Restrição para segundo plano"</string>
+    <string name="background_activity_title" msgid="8482171736539410135">"Restrição em segundo plano"</string>
     <string name="background_activity_summary" msgid="8140094430510517362">"Permitir que o app seja executado em segundo plano"</string>
     <string name="background_activity_summary_disabled" msgid="3710669050484599847">"Execução do app em segundo plano não permitida"</string>
     <string name="background_activity_summary_whitelisted" msgid="1079899502347973947">"Não é possível restringir o uso em segundo plano"</string>
@@ -2379,7 +2380,7 @@
     <string name="voice_interaction_security_warning" msgid="6378608263983737325">"Este serviço de entrada por voz poderá executar monitoramento por voz sempre ativado e apps com o recurso de comando de voz em seu nome. Ele está incluído no app <xliff:g id="VOICE_INPUT_SERVICE_APP_NAME">%s</xliff:g>. Quer ativar o uso deste serviço?"</string>
     <string name="tts_engine_preference_title" msgid="1578826947311494239">"Mecanismo preferencial"</string>
     <string name="tts_engine_settings_title" msgid="6886964122861384818">"Configurações do mecanismo"</string>
-    <string name="tts_sliders_title" msgid="992059150784095263">"Taxa e tom da fala"</string>
+    <string name="tts_sliders_title" msgid="992059150784095263">"Velocidade da fala e tom de voz"</string>
     <string name="tts_engine_section_title" msgid="6289240207677024034">"Mecanismo"</string>
     <string name="tts_install_voice_title" msgid="6275828614052514320">"Vozes"</string>
     <string name="tts_spoken_language" msgid="5542499183472504027">"Idioma falado"</string>
@@ -3163,7 +3164,7 @@
     <string name="zen_sound_two_allowed" msgid="980491120444358550">"Som desativado, mas liberado para <xliff:g id="SOUND_TYPE_0">%1$s</xliff:g> e <xliff:g id="SOUND_TYPE_1">%2$s</xliff:g>"</string>
     <string name="zen_sound_three_allowed" msgid="3455767205934547985">"Som desativado, mas permitido para <xliff:g id="SOUND_TYPE_0">%1$s</xliff:g>, <xliff:g id="SOUND_TYPE_1">%2$s</xliff:g> e <xliff:g id="SOUND_TYPE_2">%3$s</xliff:g>"</string>
     <string name="zen_msg_event_reminder_title" msgid="5137894077488924820">"Mensagens, eventos e lembretes"</string>
-    <string name="zen_msg_event_reminder_footer" msgid="3242847055412790819">"Quando o \"Não perturbe\" estiver ativado, mensagens, lembretes e eventos serão silenciados, com exceção dos itens permitidos por você acima. É possível ajustar as configurações de mensagens para permitir que seus amigos, familiares ou outros contatos falem com você."</string>
+    <string name="zen_msg_event_reminder_footer" msgid="4376930591019535192">"Quando o \"Não perturbe\" estiver ativado, mensagens, lembretes e eventos serão silenciados, com exceção dos itens permitidos por você acima. É possível ajustar as configurações de mensagens para permitir que seus amigos, familiares ou outros contatos falem com você."</string>
     <string name="zen_onboarding_ok" msgid="6131211000824433013">"Concluído"</string>
     <string name="zen_onboarding_settings" msgid="9046451821239946868">"Configurações"</string>
     <string name="zen_onboarding_new_setting_title" msgid="1893095176110470711">"Sem aviso visual ou sonoro de notificações"</string>
@@ -3197,11 +3198,11 @@
     <string name="lock_screen_notifications_summary_show" msgid="6407527697810672847">"Mostrar todo o conteúdo das notificações"</string>
     <string name="lock_screen_notifications_summary_hide" msgid="8301305044690264958">"Ocultar conteúdo confidencial"</string>
     <string name="lock_screen_notifications_summary_disable" msgid="859628910427886715">"Não mostrar notificações"</string>
-    <string name="lock_screen_notifications_interstitial_message" msgid="6164532459432182244">"Quando o dispositivo estiver bloqueado, como você deseja que as notificações sejam exibidas?"</string>
+    <string name="lock_screen_notifications_interstitial_message" msgid="6164532459432182244">"Quando o dispositivo estiver bloqueado, como você quer que as notificações sejam exibidas?"</string>
     <string name="lock_screen_notifications_interstitial_title" msgid="1416589393106326972">"Notificações"</string>
     <string name="lock_screen_notifications_summary_show_profile" msgid="835870815661120772">"Mostrar todo o conteúdo de notificação de trabalho"</string>
     <string name="lock_screen_notifications_summary_hide_profile" msgid="2005907007779384635">"Ocultar conteúdo de trabalho confidencial"</string>
-    <string name="lock_screen_notifications_interstitial_message_profile" msgid="8307705621027472346">"Como você deseja que as notificações sejam exibidas quando o dispositivo estiver bloqueado?"</string>
+    <string name="lock_screen_notifications_interstitial_message_profile" msgid="8307705621027472346">"Como você quer que as notificações sejam exibidas quando o dispositivo estiver bloqueado?"</string>
     <string name="lock_screen_notifications_interstitial_title_profile" msgid="3169806586032521333">"Notificações do perfil"</string>
     <string name="notifications_title" msgid="8086372779371204971">"Notificações"</string>
     <string name="app_notifications_title" msgid="5810577805218003760">"Notificações de apps"</string>
@@ -3238,8 +3239,8 @@
       <item quantity="other">%d apps podem ler notificações</item>
     </plurals>
     <string name="no_notification_listeners" msgid="3487091564454192821">"Nenhum app instalado solicitou o acesso a notificações."</string>
-    <string name="notification_listener_security_warning_title" msgid="5522924135145843279">"Permitir o acesso a notificações para <xliff:g id="SERVICE">%1$s</xliff:g>?"</string>
-    <string name="notification_listener_security_warning_summary" msgid="119203147791040151">"<xliff:g id="NOTIFICATION_LISTENER_NAME">%1$s</xliff:g> conseguirá ler todas as notificações, incluindo informações pessoais, como nomes de contato e o texto das mensagens que você recebe. Ele também conseguirá dispensar notificações ou ativar botões de ação que elas contenham. \n\nIsso também permitira que o app ative ou desative o modo \"Não perturbe\" e alterar as configurações relacionadas."</string>
+    <string name="notification_listener_security_warning_title" msgid="5522924135145843279">"Permitir que <xliff:g id="SERVICE">%1$s</xliff:g> acesse as notificações?"</string>
+    <string name="notification_listener_security_warning_summary" msgid="119203147791040151">"<xliff:g id="NOTIFICATION_LISTENER_NAME">%1$s</xliff:g> poderá ler todas as notificações, incluindo informações pessoais, como nomes de contato e o texto das mensagens que você recebe. O app também poderá dispensar notificações ou ativar botões de ação que elas contenham. \n\nIsso também autoriza o app a ativar ou desativar o modo \"Não perturbe\" e alterar as configurações relacionadas."</string>
     <string name="notification_listener_disable_warning_summary" msgid="6738915379642948000">"Se você desativar o acesso a notificações para <xliff:g id="NOTIFICATION_LISTENER_NAME">%1$s</xliff:g>, é possível que o acesso \"Não perturbe\" também seja desativado."</string>
     <string name="notification_listener_disable_warning_confirm" msgid="8333442186428083057">"Desativar"</string>
     <string name="notification_listener_disable_warning_cancel" msgid="8586417377104211584">"Cancelar"</string>
@@ -3259,9 +3260,9 @@
     <string name="manage_zen_access_title" msgid="2611116122628520522">"Acesso \"Não perturbe\""</string>
     <string name="zen_access_empty_text" msgid="8772967285742259540">"Nenhum app instalado solicitou o acesso \"Não perturbe\""</string>
     <string name="loading_notification_apps" msgid="5031818677010335895">"Carregando apps…"</string>
-    <string name="app_notifications_off_desc" msgid="8289223211387083447">"Conforme sua solicitação, o Android está impedindo que as notificações desse app sejam exibidas neste dispositivo"</string>
-    <string name="channel_notifications_off_desc" msgid="9013011134681491778">"Conforme sua solicitação, o Android está impedindo que essa categoria de notificações seja exibida neste dispositivo"</string>
-    <string name="channel_group_notifications_off_desc" msgid="2315252834146837470">"Conforme sua solicitação, o Android está impedindo que esse grupo de notificações seja exibido neste dispositivo"</string>
+    <string name="app_notifications_off_desc" msgid="8289223211387083447">"O Android está bloqueando as notificações desse app neste dispositivo, conforme seu pedido"</string>
+    <string name="channel_notifications_off_desc" msgid="9013011134681491778">"O Android está bloqueando essa categoria de notificações neste dispositivo, conforme seu pedido"</string>
+    <string name="channel_group_notifications_off_desc" msgid="2315252834146837470">"O Android está bloqueando esse grupo de notificações neste dispositivo, conforme seu pedido"</string>
     <string name="notification_channels" msgid="5346841743182627500">"Categorias"</string>
     <string name="notification_channels_other" msgid="5645317113885788226">"Outros"</string>
     <plurals name="notification_group_summary" formatted="false" msgid="3420621520561455358">

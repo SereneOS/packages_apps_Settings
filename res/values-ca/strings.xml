@@ -60,7 +60,7 @@
     <string name="radioInfo_service_off" msgid="7536423790014501173">"Senyal mòbil desactivat"</string>
     <string name="radioInfo_roaming_in" msgid="9045363884600341051">"Itinerància"</string>
     <string name="radioInfo_roaming_not" msgid="4849214885629672819">"No està en itinerància"</string>
-    <string name="radioInfo_phone_idle" msgid="7489244938838742820">"Absent"</string>
+    <string name="radioInfo_phone_idle" msgid="7489244938838742820">"Inactiu"</string>
     <string name="radioInfo_phone_ringing" msgid="4883724645684297895">"Està sonant"</string>
     <string name="radioInfo_phone_offhook" msgid="5873835692449118954">"Trucada en curs"</string>
     <string name="radioInfo_data_disconnected" msgid="1959735267890719418">"Desconnectat"</string>
@@ -369,7 +369,7 @@
     <string name="owner_info_settings_title" msgid="5530285568897386122">"Missatge en pantalla de bloqueig"</string>
     <string name="security_enable_widgets_title" msgid="2754833397070967846">"Activa els widgets"</string>
     <string name="security_enable_widgets_disabled_summary" msgid="6392489775303464905">"Desactivada per l\'administrador"</string>
-    <string name="lockdown_settings_title" msgid="7393790212603280213">"Mostra l\'opció de bloqueig"</string>
+    <string name="lockdown_settings_title" msgid="7393790212603280213">"Mostra l\'opció Bloqueig de seguretat"</string>
     <string name="lockdown_settings_summary" msgid="429230431748285997">"Mostra l\'opció del botó d\'engegada que desactiva Smart Lock, el desbloqueig amb l\'empremta digital i les notificacions a la pantalla de bloqueig"</string>
     <string name="owner_info_settings_summary" msgid="7472393443779227052">"Cap"</string>
     <string name="owner_info_settings_status" msgid="120407527726476378">"<xliff:g id="COUNT_0">%1$d</xliff:g>/<xliff:g id="COUNT_1">%2$d</xliff:g>"</string>
@@ -856,6 +856,7 @@
     <string name="wifi_ap_choose_auto" msgid="2677800651271769965">"Automàtica"</string>
     <string name="wifi_ap_choose_2G" msgid="8724267386885036210">"Banda de 2,4 GHz"</string>
     <string name="wifi_ap_choose_5G" msgid="8813128641914385634">"Banda de 5,0 GHz"</string>
+    <string name="wifi_ap_prefer_5G" msgid="2501070491623803139">"Preferència per la banda de 5,0 GHz"</string>
     <string name="wifi_ap_2G" msgid="8378132945192979364">"2,4 GHz"</string>
     <string name="wifi_ap_5G" msgid="4020713496716329468">"5,0 GHz"</string>
     <string name="wifi_ap_band_select_one" msgid="3476254666116431650">"Tria almenys una banda per al punt d\'accés Wi-Fi:"</string>
@@ -974,8 +975,8 @@
     <skip />
     <string name="wifi_calling_roaming_mode_dialog_title" msgid="7800926602662078576">"Preferència en itinerància"</string>
   <string-array name="wifi_calling_mode_choices">
-    <item msgid="2124257075906188844">"Preferència per a la Wi-Fi"</item>
-    <item msgid="1335127656328817518">"Preferència per a dades mòbils"</item>
+    <item msgid="2124257075906188844">"Preferència per la Wi-Fi"</item>
+    <item msgid="1335127656328817518">"Preferència per dades mòbils"</item>
     <item msgid="3132912693346866895">"Només Wi-Fi"</item>
   </string-array>
   <string-array name="wifi_calling_mode_choices_v2">
@@ -989,8 +990,8 @@
     <item msgid="3194458950573886239">"0"</item>
   </string-array>
   <string-array name="wifi_calling_mode_choices_without_wifi_only">
-    <item msgid="5782108782860004851">"Preferència per a la Wi-Fi"</item>
-    <item msgid="5074515506087318555">"Preferència per a dades mòbils"</item>
+    <item msgid="5782108782860004851">"Preferència per la Wi-Fi"</item>
+    <item msgid="5074515506087318555">"Preferència per dades mòbils"</item>
   </string-array>
   <string-array name="wifi_calling_mode_choices_v2_without_wifi_only">
     <item msgid="6132150507201243768">"Wi-Fi"</item>
@@ -1067,7 +1068,7 @@
     <string name="color_mode_option_natural" msgid="5013837483986772758">"Natural"</string>
     <string name="color_mode_option_boosted" msgid="8588223970257287524">"Millorat"</string>
     <string name="color_mode_option_saturated" msgid="4569683960058798843">"Saturat"</string>
-    <string name="color_mode_option_automatic" msgid="8781254568140509331">"Automàtic"</string>
+    <string name="color_mode_option_automatic" msgid="7996505473528529568">"Automàtic"</string>
     <string name="color_mode_summary_natural" msgid="6624188642920403099">"Fes servir només colors precisos"</string>
     <string name="color_mode_summary_automatic" msgid="4669516973360709431">"Ajusta entre colors vius i precisos"</string>
     <string name="accelerometer_summary_on" product="tablet" msgid="429982132339828942">"Canvia l\'orientació automàticament en girar la tauleta"</string>
@@ -1238,7 +1239,7 @@
     <string name="status_roaming" msgid="2638800467430913403">"Itinerància"</string>
     <string name="status_operator" msgid="2274875196954742087">"Xarxa"</string>
     <string name="status_wifi_mac_address" msgid="2202206684020765378">"Adreça MAC de Wi-Fi"</string>
-    <string name="status_bt_address" msgid="4195174192087439720">"Adreça de Bluetooth"</string>
+    <string name="status_bt_address" msgid="4195174192087439720">"Adreça Bluetooth"</string>
     <string name="status_serial_number" msgid="2257111183374628137">"Número de sèrie"</string>
     <string name="status_up_time" msgid="7294859476816760399">"Temps actiu"</string>
     <string name="status_awake_time" msgid="2393949909051183652">"Temps d\'activació"</string>
@@ -1713,8 +1714,8 @@
     <string name="show_running_services" msgid="5736278767975544570">"Serveis en execució"</string>
     <string name="show_background_processes" msgid="2009840211972293429">"Processos a la memòria cau"</string>
     <string name="default_emergency_app" msgid="1951760659640369980">"Aplicació en casos d\'emergència"</string>
-    <string name="reset_app_preferences" msgid="1321050641018356925">"Restableix preferències d\'aplicacions"</string>
-    <string name="reset_app_preferences_title" msgid="6093179367325336662">"Restablir preferències d\'aplicacions?"</string>
+    <string name="reset_app_preferences" msgid="1321050641018356925">"Restableix les preferències d\'aplicacions"</string>
+    <string name="reset_app_preferences_title" msgid="6093179367325336662">"Restablir les preferències d\'aplicacions?"</string>
     <string name="reset_app_preferences_desc" msgid="4822447731869201512">"Es restabliran les preferències de:\n\n "<li>"Aplicacions desactivades"</li>\n" "<li>"Notificacions d\'aplicacions desactivades"</li>\n" "<li>"Aplicacions predeterminades"</li>\n" "<li>"Restriccions de dades en segon pla d\'aplicacions"</li>\n" "<li>"Restriccions de permisos"</li>\n\n" No es perdran les dades de les aplicacions."</string>
     <string name="reset_app_preferences_button" msgid="2559089511841281242">"Restableix aplicacions"</string>
     <string name="manage_space_text" msgid="8852711522447794676">"Gestiona l\'espai"</string>
@@ -3163,7 +3164,7 @@
     <string name="zen_sound_two_allowed" msgid="980491120444358550">"Silenciat, però permet <xliff:g id="SOUND_TYPE_0">%1$s</xliff:g> i <xliff:g id="SOUND_TYPE_1">%2$s</xliff:g>"</string>
     <string name="zen_sound_three_allowed" msgid="3455767205934547985">"Silenciat, però permet <xliff:g id="SOUND_TYPE_0">%1$s</xliff:g>, <xliff:g id="SOUND_TYPE_1">%2$s</xliff:g> i <xliff:g id="SOUND_TYPE_2">%3$s</xliff:g>"</string>
     <string name="zen_msg_event_reminder_title" msgid="5137894077488924820">"Missatges, esdeveniments i recordatoris"</string>
-    <string name="zen_msg_event_reminder_footer" msgid="3242847055412790819">"Quan actives el mode No molestis, els missatges, els recordatoris i els esdeveniments se silencien, excepte aquells elements que hagis permès més amunt. Pots ajustar la configuració dels missatges per permetre que amics, familiars i altres contactes puguin contactar amb tu."</string>
+    <string name="zen_msg_event_reminder_footer" msgid="4376930591019535192">"Quan actives el mode No molestis, els missatges, els recordatoris i els esdeveniments se silencien, excepte aquells elements que hagis permès més amunt. Pots ajustar la configuració dels missatges per permetre que amics, familiars i altres contactes puguin contactar amb tu."</string>
     <string name="zen_onboarding_ok" msgid="6131211000824433013">"Fet"</string>
     <string name="zen_onboarding_settings" msgid="9046451821239946868">"Configuració"</string>
     <string name="zen_onboarding_new_setting_title" msgid="1893095176110470711">"Notificacions sense so ni elements visuals"</string>
@@ -3259,16 +3260,16 @@
     <string name="manage_zen_access_title" msgid="2611116122628520522">"Accés a No molestis"</string>
     <string name="zen_access_empty_text" msgid="8772967285742259540">"Cap aplicació instal·lada no ha sol·licitat accés a No molestis."</string>
     <string name="loading_notification_apps" msgid="5031818677010335895">"S\'estan carregant les aplicacions..."</string>
-    <string name="app_notifications_off_desc" msgid="8289223211387083447">"Tal com has sol·licitat, Android està impedint que les notificacions d\'aquesta aplicació es mostrin en aquest dispositiu"</string>
-    <string name="channel_notifications_off_desc" msgid="9013011134681491778">"Tal com has sol·licitat, Android està impedint que les notificacions d\'aquesta categoria es mostrin en aquest dispositiu"</string>
-    <string name="channel_group_notifications_off_desc" msgid="2315252834146837470">"Tal com has sol·licitat, Android està impedint que aquest grup de notificacions es mostri en aquest dispositiu"</string>
+    <string name="app_notifications_off_desc" msgid="8289223211387083447">"Tal com has sol·licitat, Android està bloquejant les notificacions d\'aquesta aplicació perquè no apareguin al dispositiu"</string>
+    <string name="channel_notifications_off_desc" msgid="9013011134681491778">"Tal com has sol·licitat, Android està bloquejant aquesta categoria de notificacions perquè no apareguin al dispositiu"</string>
+    <string name="channel_group_notifications_off_desc" msgid="2315252834146837470">"Tal com has sol·licitat, Android està bloquejant aquest grup de notificacions perquè no apareguin al dispositiu"</string>
     <string name="notification_channels" msgid="5346841743182627500">"Categories"</string>
     <string name="notification_channels_other" msgid="5645317113885788226">"Altres"</string>
     <plurals name="notification_group_summary" formatted="false" msgid="3420621520561455358">
       <item quantity="other"><xliff:g id="COUNT_1">%d</xliff:g> categories</item>
       <item quantity="one"><xliff:g id="COUNT_0">%d</xliff:g> categoria</item>
     </plurals>
-    <string name="no_channels" msgid="3077375508177744586">"No hi ha cap notificació per a aquesta aplicació"</string>
+    <string name="no_channels" msgid="3077375508177744586">"Aquesta aplicació no ha publicat cap notificació"</string>
     <string name="app_settings_link" msgid="8894946007543660906">"Opcions de configuració addicionals a l\'aplicació"</string>
     <string name="app_notification_listing_summary_zero" msgid="8046168435207424440">"Activades per a totes les aplicacions"</string>
     <plurals name="app_notification_listing_summary_others" formatted="false" msgid="6709582776823665660">

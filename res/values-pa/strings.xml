@@ -415,8 +415,8 @@
     <string name="security_settings_fingerprint_enroll_introduction_cancel_setup" msgid="5021369420474432665">"ਛੱਡੋ"</string>
     <string name="security_settings_fingerprint_enroll_introduction_continue_setup" msgid="1961957425135180242">"ਅੱਗੇ"</string>
     <string name="setup_fingerprint_enroll_skip_title" msgid="362050541117362034">"ਕੀ ਫਿੰਗਰਪ੍ਰਿੰਟ ਛੱਡਣਾ ਹੈ?"</string>
-    <string name="setup_fingerprint_enroll_skip_after_adding_lock_text" msgid="958990414356204763">"ਫਿੰਗਰਪ੍ਰਿੰਟ ਸਥਾਪਨਾ ਵਿੱਚ ਸਿਰਫ਼ ਇੱਕ ਜਾਂ ਦੋ ਮਿੰਟ ਲੱਗਦੇ ਹਨ। ਜੇਕਰ ਤੁਸੀਂ ਇਸ ਨੂੰ ਛੱਡ ਦਿੰਦੇ ਹੋ, ਤਾਂ ਤੁਸੀਂ ਬਾਅਦ ਵਿੱਚ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਆਪਣੇ ਫਿੰਗਰਪ੍ਰਿੰਟ ਸ਼ਾਮਲ ਕਰ ਸਕਦੇ ਹੋ।"</string>
-    <string name="lock_screen_intro_skip_title" msgid="4988210105913705679">"ਕੀ ਸਕ੍ਰੀਨ  ਲਾਕ  ਨੂੰ ਛੱਡਣਾ ਹੈ?"</string>
+    <string name="setup_fingerprint_enroll_skip_after_adding_lock_text" msgid="958990414356204763">"ਫਿੰਗਰਪ੍ਰਿੰਟ ਸੈੱਟਅੱਪ ਵਿੱਚ ਸਿਰਫ਼ ਇੱਕ ਜਾਂ ਦੋ ਮਿੰਟ ਲੱਗਦੇ ਹਨ। ਜੇਕਰ ਤੁਸੀਂ ਇਸ ਨੂੰ ਛੱਡ ਦਿੰਦੇ ਹੋ, ਤਾਂ ਤੁਸੀਂ ਬਾਅਦ ਵਿੱਚ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਜਾ ਕੇ ਆਪਣੇ ਫਿੰਗਰਪ੍ਰਿੰਟ ਸ਼ਾਮਲ ਕਰ ਸਕਦੇ ਹੋ।"</string>
+    <string name="lock_screen_intro_skip_title" msgid="4988210105913705679">"ਕੀ ਸਕ੍ਰੀਨ ਲਾਕ ਨੂੰ ਛੱਡਣਾ ਹੈ?"</string>
     <string name="lock_screen_intro_skip_dialog_text_frp" product="tablet" msgid="1581834104051243425">"ਡੀਵਾਈਸ ਸੁਰੱਖਿਆ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਚਾਲੂ ਨਹੀਂ ਕੀਤੀਆਂ ਜਾਣਗੀਆਂ। ਜੇਕਰ ਤੁਹਾਡਾ ਟੈਬਲੈੱਟ ਗੁੰਮ ਹੋ ਜਾਂਦਾ ਹੈ, ਚੋਰੀ ਹੋ ਜਾਂਦਾ ਹੈ ਜਾਂ ਰੀਸੈੱਟ ਕੀਤਾ ਜਾਂਦਾ ਹੈ ਤਾਂ ਤੁਸੀਂ ਹੋਰਾਂ ਨੂੰ ਇਸਦੀ ਵਰਤੋਂ ਕਰਨ ਤੋਂ ਰੋਕਣ ਵਿੱਚ ਅਸਮਰੱਥ ਹੋੋਵੋਗੇ।"</string>
     <string name="lock_screen_intro_skip_dialog_text_frp" product="device" msgid="4629503416877189572">"ਡੀਵਾਈਸ ਸੁਰੱਖਿਆ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਚਾਲੂ ਨਹੀਂ ਕੀਤੀਆਂ ਜਾਣਗੀਆਂ। ਜੇਕਰ ਤੁਹਾਡਾ ਡੀਵਾਈਸ ਗੁੰਮ, ਚੋਰੀ ਹੋ ਜਾਂਦਾ ਹੈ ਜਾਂ ਰੀਸੈੱਟ ਕੀਤਾ ਜਾਂਦਾ ਹੈ ਤਾਂ ਤੁਸੀਂ ਹੋਰਾਂ ਨੂੰ ਇਸਦੀ ਵਰਤੋਂ ਕਰਨ ਤੋਂ ਰੋਕਣ ਵਿੱਚ ਅਸਮਰੱਥ ਹੋੋਵੋਗੇ।"</string>
     <string name="lock_screen_intro_skip_dialog_text_frp" product="default" msgid="2423428240245737909">"ਡੀਵਾਈਸ ਸੁਰੱਖਿਆ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਚਾਲੂ ਨਹੀਂ ਕੀਤੀਆਂ ਜਾਣਗੀਆਂ। ਜੇਕਰ ਤੁਹਾਡਾ ਫ਼ੋਨ ਗੁੰਮ, ਚੋਰੀ ਹੋ ਜਾਂਦਾ ਹੈ ਜਾਂ ਰੀਸੈੱਟ ਕੀਤਾ ਜਾਂਦਾ ਹੈ ਤਾਂ ਤੁਸੀਂ ਹੋਰਾਂ ਨੂੰ ਇਸਦੀ ਦੀ ਵਰਤੋਂ ਕਰਨ ਤੋਂ ਰੋਕਣ ਵਿੱਚ ਅਸਮਰੱਥ ਹੋੋਵੋਗੇ।"</string>
@@ -856,6 +856,7 @@
     <string name="wifi_ap_choose_auto" msgid="2677800651271769965">"ਸਵੈਚਲਿਤ"</string>
     <string name="wifi_ap_choose_2G" msgid="8724267386885036210">"2.4 GHz ਬੈਂਡ"</string>
     <string name="wifi_ap_choose_5G" msgid="8813128641914385634">"5.0 GHz ਬੈਂਡ"</string>
+    <string name="wifi_ap_prefer_5G" msgid="2501070491623803139">"5.0 GHz ਬੈਂਡ ਨੂੰ ਤਰਜੀਹ ਦਿੱਤੀ ਗਈ"</string>
     <string name="wifi_ap_2G" msgid="8378132945192979364">"2.4 GHz"</string>
     <string name="wifi_ap_5G" msgid="4020713496716329468">"5.0 GHz"</string>
     <string name="wifi_ap_band_select_one" msgid="3476254666116431650">"ਵਾਈ-ਫਾਈ ਹੌਟਸਪੌਟ ਲਈ ਘੱਟੋ-ਘੱਟ ਇੱਕ ਬੈਂਡ ਚੁਣੋ:"</string>
@@ -1067,7 +1068,7 @@
     <string name="color_mode_option_natural" msgid="5013837483986772758">"ਕੁਦਰਤੀ"</string>
     <string name="color_mode_option_boosted" msgid="8588223970257287524">"ਵਧਾਇਆ ਗਿਆ"</string>
     <string name="color_mode_option_saturated" msgid="4569683960058798843">"ਪਰਿਪੂਰਨ ਕੀਤਾ ਗਿਆ"</string>
-    <string name="color_mode_option_automatic" msgid="8781254568140509331">"ਸਵੈਚਲਿਤ"</string>
+    <string name="color_mode_option_automatic" msgid="7996505473528529568">"ਅਨੁਕੂਲਨਯੋਗ"</string>
     <string name="color_mode_summary_natural" msgid="6624188642920403099">"ਸਿਰਫ਼ ਸਟੀਕ ਰੰਗ ਵਰਤੋ"</string>
     <string name="color_mode_summary_automatic" msgid="4669516973360709431">"ਸਪਸ਼ਟ ਅਤੇ ਸਟੀਕ ਰੰਗਾਂ ਵਿਚਕਾਰ ਵਿਵਸਥਿਤ ਕਰੋ"</string>
     <string name="accelerometer_summary_on" product="tablet" msgid="429982132339828942">"ਟੈਬਲੈੱਟ ਨੂੰ ਘੁੰਮਾਉਣ ਵੇਲੇ ਆਪਣੇ ਆਪ ਦਿਸ਼ਾਮਾਨ \'ਤੇ ਬਦਲੋ"</string>
@@ -1383,7 +1384,7 @@
     <string name="storage_wizard_init_v2_external_summary" msgid="801198071793584445">"ਡੀਵਾਈਸਾਂ ਵਿਚਕਾਰ ਫ਼ਾਈਲਾਂ ਅਤੇ ਮੀਡੀਆ ਟ੍ਰਾਂਸਫ਼ਰ ਕਰਨ ਲਈ"</string>
     <string name="storage_wizard_init_v2_external_action" msgid="8662451480642784031">"ਪੋਰਟੇਬਲ ਸਟੋਰੇਜ"</string>
     <string name="storage_wizard_init_v2_later" msgid="1080613420170749130">"ਬਾਅਦ ਵਿੱਚ ਸੈੱਟਅੱਪ ਕਰੋ"</string>
-    <string name="storage_wizard_format_confirm_v2_title" msgid="5744790239994621663">"ਕੀ ਇਸ <xliff:g id="NAME">^1</xliff:g> ਫਾਰਮੈਟ ਕਰਨਾ ਹੈ?"</string>
+    <string name="storage_wizard_format_confirm_v2_title" msgid="5744790239994621663">"ਕੀ ਇਸ <xliff:g id="NAME">^1</xliff:g> ਨੂੰ ਫਾਰਮੈਟ ਕਰਨਾ ਹੈ?"</string>
     <string name="storage_wizard_format_confirm_v2_body" msgid="4614199613500900975">"ਇਸ <xliff:g id="NAME_0">^1</xliff:g> ਨੂੰ ਐਪਾਂ, ਫ਼ਾਈਲਾਂ ਅਤੇ ਮੀਡੀਆ ਸਟੋਰ ਕਰਨ ਲਈ ਫਾਰਮੈਟ ਕਰਨਾ ਪਵੇਗਾ। \n\nਫਾਰਮੈਟ ਕਰਨ ਨਾਲ <xliff:g id="NAME_1">^2</xliff:g> \'ਤੇ ਮੌਜੂਦ ਸਮੱਗਰੀ ਮਿਟ ਜਾਵੇਗੀ। ਸਮੱਗਰੀ ਗੁਆਉਣ ਤੋਂ ਬਚਣ ਲਈ, ਇਸ ਦਾ ਕਿਸੇ ਹੋਰ <xliff:g id="NAME_2">^3</xliff:g> ਜਾਂ ਡੀਵਾਈਸ \'ਤੇ ਬੈਕਅੱਪ ਲਓ।"</string>
     <string name="storage_wizard_format_confirm_v2_action" msgid="8258363472135537500">"<xliff:g id="NAME">^1</xliff:g> ਨੂੰ ਫਾਰਮੈਟ ਕਰੋ"</string>
     <string name="storage_wizard_migrate_v2_title" msgid="31406330052996898">"ਕੀ <xliff:g id="NAME">^1</xliff:g> ਵਿੱਚ ਸਮੱਗਰੀ ਨੂੰ ਲਿਜਾਣਾ ਹੈ?"</string>
@@ -2059,10 +2060,10 @@
     <string name="enable_service_pattern_reason" msgid="777577618063306751">"ਕਿਉਂਕਿ <xliff:g id="SERVICE">%1$s</xliff:g> ਨੂੰ ਚਾਲੂ ਕਰਨ ਨਾਲ  ਡਾਟਾ  ਇਨਕ੍ਰਿਪਸ਼ਨ ਤੇ ਅਸਰ ਪੈਂਦਾ ਹੈ, ਤੁਹਾਨੂੰ ਆਪਣੇ ਪੈਟਰਨ ਦੀ ਪੁਸ਼ਟੀ ਕਰਨ ਦੀ ਲੋੜ ਹੈ।"</string>
     <string name="enable_service_pin_reason" msgid="7882035264853248228">"ਤੁਹਾਨੂੰ ਆਪਣੇ ਪਿੰਨ ਦੀ ਪੁਸ਼ਟੀ ਕਰਨ ਦੀ ਲੋੜ ਹੈ, ਕਿਉਂਕਿ <xliff:g id="SERVICE">%1$s</xliff:g> ਨੂੰ ਚਾਲੂ ਕਰਨ ਨਾਲ ਡਾਟਾ ਇਨਕ੍ਰਿਪਸ਼ਨ ਤੇ ਅਸਰ ਪੈਂਦਾ ਹੈ।"</string>
     <string name="enable_service_password_reason" msgid="1224075277603097951">"ਕਿਉਂਕਿ <xliff:g id="SERVICE">%1$s</xliff:g> ਨੂੰ ਚਾਲੂ ਕਰਨ ਨਾਲ ਡਾਟਾ ਇਨਕ੍ਰਿਪਸ਼ਨ ਤੇ ਅਸਰ ਪੈਂਦਾ ਹੈ, ਤੁਹਾਨੂੰ ਆਪਣੇ ਪਾਸਵਰਡ ਦੀ ਪੁਸ਼ਟੀ ਕਰਨ ਦੀ ਲੋੜ ਹੈ।"</string>
-    <string name="capability_title_receiveAccessibilityEvents" msgid="1869032063969970755">"ਤੁਹਾਡੀਆਂ ਸਰਗਰਮੀਆਂ ਦਾ ਨਿਰੀਖਣ ਕਰਨਾ"</string>
+    <string name="capability_title_receiveAccessibilityEvents" msgid="1869032063969970755">"ਤੁਹਾਡੀਆਂ ਕਾਰਵਾਈਆਂ ਦਾ ਨਿਰੀਖਣ ਕਰਨਾ"</string>
     <string name="capability_desc_receiveAccessibilityEvents" msgid="6640333613848713883">"ਜਦੋਂ ਤੁਸੀਂ ਕਿਸੇ ਐਪ ਨਾਲ ਅੰਤਰਕਿਰਿਆ ਕਰ ਰਹੇ ਹੋਵੋ ਤਾਂ ਸੂਚਨਾਵਾਂ ਪ੍ਰਾਪਤ ਕਰਨਾ।"</string>
     <string name="disable_service_title" msgid="3624005212728512896">"ਕੀ <xliff:g id="SERVICE">%1$s</xliff:g> ਬੰਦ ਕਰਨੀ ਹੈ?"</string>
-    <string name="disable_service_message" msgid="2247101878627941561">"ਠੀਕ \'ਤੇ ਟੈਪ ਕਰਨ ਨਾਲ <xliff:g id="SERVICE">%1$s</xliff:g> ਬੰਦ ਹੋ ਜਾਵੇਗੀ।"</string>
+    <string name="disable_service_message" msgid="2247101878627941561">"\'ਠੀਕ ਹੈ\' \'ਤੇ ਟੈਪ ਕਰਨ ਨਾਲ <xliff:g id="SERVICE">%1$s</xliff:g> ਬੰਦ ਹੋ ਜਾਵੇਗੀ।"</string>
     <string name="accessibility_no_services_installed" msgid="7200948194639038807">"ਕੋਈ ਸੇਵਾਵਾਂ ਇੰਸਟੌਲ ਨਹੀਂ ਕੀਤੀਆਂ"</string>
     <string name="accessibility_no_service_selected" msgid="2840969718780083998">"ਕਿਸੇ ਸੇਵਾ ਨੂੰ ਨਹੀਂ ਚੁਣਿਆ ਗਿਆ"</string>
     <string name="accessibility_service_default_description" msgid="1072730037861494125">"ਕੋਈ ਵਰਣਨ ਮੁਹੱਈਆ ਨਹੀਂ ਕੀਤਾ ਗਿਆ।"</string>
@@ -3163,7 +3164,7 @@
     <string name="zen_sound_two_allowed" msgid="980491120444358550">"ਮਿਊਟ ਕੀਤਾ ਗਿਆ, ਪਰ <xliff:g id="SOUND_TYPE_0">%1$s</xliff:g> ਅਤੇ <xliff:g id="SOUND_TYPE_1">%2$s</xliff:g> ਚੱਲਣ ਦਿਓ"</string>
     <string name="zen_sound_three_allowed" msgid="3455767205934547985">"ਮਿਊਟ ਕੀਤਾ ਗਿਆ, ਪਰ <xliff:g id="SOUND_TYPE_0">%1$s</xliff:g>, <xliff:g id="SOUND_TYPE_1">%2$s</xliff:g> ਅਤੇ <xliff:g id="SOUND_TYPE_2">%3$s</xliff:g> ਚੱਲਣ ਦਿਓ"</string>
     <string name="zen_msg_event_reminder_title" msgid="5137894077488924820">"ਸੁਨੇਹੇ, ਇਵੈਂਟ ਅਤੇ ਯਾਦ-ਸੂਚਨਾਵਾਂ"</string>
-    <string name="zen_msg_event_reminder_footer" msgid="3242847055412790819">"ਪਰੇਸ਼ਾਨ ਨਾ ਕਰੋ ਚਾਲੂ ਹੋਣ \'ਤੇ ਉਪਰੋਕਤ ਤੁਹਾਡੀ ਇਜਾਜ਼ਤ ਵਾਲੀਆਂ ਆਈਟਮਾਂ ਤੋਂ ਇਲਾਵਾ ਸੁਨੇਹੇ, ਯਾਦ-ਸੂਚਨਾਵਾਂ ਅਤੇ ਇਵੈਂਟ ਮਿਊਟ ਕੀਤੇ ਜਾਣਗੇ। ਤੁਸੀਂ ਆਪਣੇ ਦੋਸਤਾਂ, ਪਰਿਵਾਰਕ ਜਾਂ ਹੋਰ ਸੰਪਰਕਾਂ ਵੱਲੋਂ ਤੁਹਾਡੇ ਤੱਕ ਪਹੁੰਚ ਕਰਨ ਦੇਣ ਲਈ ਸੁਨੇਹੇ ਸੈਟਿੰਗਾਂ ਨੂੰ ਵਿਵਸਥਿਤ ਕਰ ਸਕਦੇ ਹੋ।"</string>
+    <string name="zen_msg_event_reminder_footer" msgid="4376930591019535192">"ਪਰੇਸ਼ਾਨ ਨਾ ਕਰੋ ਚਾਲੂ ਹੋਣ \'ਤੇ ਉਪਰੋਕਤ ਤੁਹਾਡੀ ਇਜਾਜ਼ਤ ਵਾਲੀਆਂ ਆਈਟਮਾਂ ਤੋਂ ਇਲਾਵਾ ਸੁਨੇਹੇ, ਯਾਦ-ਸੂਚਨਾਵਾਂ ਅਤੇ ਇਵੈਂਟ ਮਿਊਟ ਕੀਤੇ ਜਾਣਗੇ। ਤੁਸੀਂ ਆਪਣੇ ਦੋਸਤਾਂ, ਪਰਿਵਾਰਕ ਜਾਂ ਹੋਰ ਸੰਪਰਕਾਂ ਵੱਲੋਂ ਤੁਹਾਡੇ ਤੱਕ ਪਹੁੰਚ ਕਰਨ ਦੇਣ ਲਈ ਸੁਨੇਹੇ ਸੈਟਿੰਗਾਂ ਨੂੰ ਵਿਵਸਥਿਤ ਕਰ ਸਕਦੇ ਹੋ।"</string>
     <string name="zen_onboarding_ok" msgid="6131211000824433013">"ਹੋ ਗਿਆ"</string>
     <string name="zen_onboarding_settings" msgid="9046451821239946868">"ਸੈਟਿੰਗਾਂ"</string>
     <string name="zen_onboarding_new_setting_title" msgid="1893095176110470711">"ਸੂਚਨਾਵਾਂ ਦੇ ਕੋਈ ਦ੍ਰਿਸ਼ਟੀਗਤ ਸੰਕੇਤ ਜਾਂ ਧੁਨੀ ਨਹੀਂ"</string>

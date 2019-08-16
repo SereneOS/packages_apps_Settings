@@ -94,6 +94,14 @@
         <intent android:action="android.settings.SHOW_SAFETY_AND_REGULATORY_INFO"/>
     </Preference>
 
+    <!-- Safety & regulatory manual -->
+    <Preference
+        android:key="safety_info"
+        android:order="7"
+        android:title="@string/safety_and_regulatory_info">
+        <intent android:action="android.settings.SHOW_SAFETY_AND_REGULATORY_INFO"/>
+    </Preference>
+
     <!-- SIM status -->
     <Preference
         android:key="sim_status"

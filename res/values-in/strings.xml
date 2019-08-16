@@ -369,7 +369,7 @@
     <string name="owner_info_settings_title" msgid="5530285568897386122">"Pesan layar kunci"</string>
     <string name="security_enable_widgets_title" msgid="2754833397070967846">"Aktifkan widget"</string>
     <string name="security_enable_widgets_disabled_summary" msgid="6392489775303464905">"Dinonaktifkan oleh admin"</string>
-    <string name="lockdown_settings_title" msgid="7393790212603280213">"Tampilkan opsi penguncian"</string>
+    <string name="lockdown_settings_title" msgid="7393790212603280213">"Tampilkan opsi kunci total"</string>
     <string name="lockdown_settings_summary" msgid="429230431748285997">"Tampilkan opsi tombol power yang menonaktifkan Smart Lock, buka kunci dengan sidik jari, dan notifikasi di layar kunci"</string>
     <string name="owner_info_settings_summary" msgid="7472393443779227052">"Tidak ada"</string>
     <string name="owner_info_settings_status" msgid="120407527726476378">"<xliff:g id="COUNT_0">%1$d</xliff:g> / <xliff:g id="COUNT_1">%2$d</xliff:g>"</string>
@@ -856,6 +856,7 @@
     <string name="wifi_ap_choose_auto" msgid="2677800651271769965">"Otomatis"</string>
     <string name="wifi_ap_choose_2G" msgid="8724267386885036210">"Pita frekuensi 2,4 GHz"</string>
     <string name="wifi_ap_choose_5G" msgid="8813128641914385634">"Pita frekuensi 5,0 GHz"</string>
+    <string name="wifi_ap_prefer_5G" msgid="2501070491623803139">"Disarankan Band 5.0 GHz"</string>
     <string name="wifi_ap_2G" msgid="8378132945192979364">"2,4 GHz"</string>
     <string name="wifi_ap_5G" msgid="4020713496716329468">"5,0 GHz"</string>
     <string name="wifi_ap_band_select_one" msgid="3476254666116431650">"Pilih minimal satu pita frekuensi untuk hotspot Wi‑Fi:"</string>
@@ -1067,7 +1068,7 @@
     <string name="color_mode_option_natural" msgid="5013837483986772758">"Alami"</string>
     <string name="color_mode_option_boosted" msgid="8588223970257287524">"Ditingkatkan"</string>
     <string name="color_mode_option_saturated" msgid="4569683960058798843">"Disaturasi"</string>
-    <string name="color_mode_option_automatic" msgid="8781254568140509331">"Otomatis"</string>
+    <string name="color_mode_option_automatic" msgid="7996505473528529568">"Adaptif"</string>
     <string name="color_mode_summary_natural" msgid="6624188642920403099">"Gunakan hanya warna yang akurat"</string>
     <string name="color_mode_summary_automatic" msgid="4669516973360709431">"Sesuaikan antara warna yang jernih dan akurat"</string>
     <string name="accelerometer_summary_on" product="tablet" msgid="429982132339828942">"Ubah orientasi secara otomatis ketika memutar tablet"</string>
@@ -3163,7 +3164,7 @@
     <string name="zen_sound_two_allowed" msgid="980491120444358550">"Dimatikan, namun mengizinkan <xliff:g id="SOUND_TYPE_0">%1$s</xliff:g> dan <xliff:g id="SOUND_TYPE_1">%2$s</xliff:g>"</string>
     <string name="zen_sound_three_allowed" msgid="3455767205934547985">"Dimatikan, namun mengizinkan <xliff:g id="SOUND_TYPE_0">%1$s</xliff:g>, <xliff:g id="SOUND_TYPE_1">%2$s</xliff:g>, dan <xliff:g id="SOUND_TYPE_2">%3$s</xliff:g>"</string>
     <string name="zen_msg_event_reminder_title" msgid="5137894077488924820">"Pesan, acara &amp; pengingat"</string>
-    <string name="zen_msg_event_reminder_footer" msgid="3242847055412790819">"Jika mode Jangan Ganggu diaktifkan, pesan, pengingat, dan acara akan dimatikan suara dan getarannya, kecuali item yang Anda izinkan di atas. Anda dapat menyesuaikan setelan pesan untuk mengizinkan teman, keluarga, atau kontak lain menghubungi Anda."</string>
+    <string name="zen_msg_event_reminder_footer" msgid="4376930591019535192">"Jika mode Jangan Ganggu diaktifkan, pesan, pengingat, dan acara akan dimatikan suara dan getarannya, kecuali item yang Anda izinkan di atas. Anda dapat menyesuaikan setelan pesan untuk mengizinkan teman, keluarga, atau kontak lain menghubungi Anda."</string>
     <string name="zen_onboarding_ok" msgid="6131211000824433013">"Selesai"</string>
     <string name="zen_onboarding_settings" msgid="9046451821239946868">"Setelan"</string>
     <string name="zen_onboarding_new_setting_title" msgid="1893095176110470711">"Tidak ada visual atau suara dari notifikasi"</string>

@@ -251,13 +251,13 @@
     <string name="band_mode_failed" msgid="1495968863884716379">"Ezin izan da egin"</string>
     <string name="band_mode_succeeded" msgid="2701016190055887575">"Ongi"</string>
     <string name="sdcard_changes_instructions" msgid="4482324130377280131">"Aldaketek USB kablea berriro konektatzean izango dute eragina."</string>
-    <string name="sdcard_settings_screen_mass_storage_text" msgid="3741220147296482474">"Gaitu USB memoria masiboa"</string>
+    <string name="sdcard_settings_screen_mass_storage_text" msgid="3741220147296482474">"Gaitu USB biltegiratze masiboa"</string>
     <string name="sdcard_settings_total_bytes_label" msgid="9184160745785062144">"Byteak, guztira:"</string>
     <string name="sdcard_settings_not_present_status" product="nosdcard" msgid="1636218515775929394">"Ez da USB memoria muntatu."</string>
     <string name="sdcard_settings_not_present_status" product="default" msgid="2048419626134861599">"Ez dago SD txartelik."</string>
     <string name="sdcard_settings_available_bytes_label" msgid="763232429899373001">"Byte erabilgarriak:"</string>
-    <string name="sdcard_settings_mass_storage_status" product="nosdcard" msgid="7993410985895217054">"Memoria masiboko gailu gisa erabiltzen ari da USB memoria."</string>
-    <string name="sdcard_settings_mass_storage_status" product="default" msgid="2742075324087038036">"SD txartela memoria masiboko gailu gisa erabiltzen ari da."</string>
+    <string name="sdcard_settings_mass_storage_status" product="nosdcard" msgid="7993410985895217054">"USB memoria bilt. masibo gisa."</string>
+    <string name="sdcard_settings_mass_storage_status" product="default" msgid="2742075324087038036">"SD txartela biltegiratze masiboko gailu gisa erabiltzen ari da."</string>
     <string name="sdcard_settings_unmounted_status" product="nosdcard" msgid="5128923500235719226">"Segurtasunez ken daiteke USB memoria."</string>
     <string name="sdcard_settings_unmounted_status" product="default" msgid="666233604712540408">"Segurtasunez ken daiteke SD txartela."</string>
     <string name="sdcard_settings_bad_removal_status" product="nosdcard" msgid="7761390725880773697">"USB mem. erabili bitartean kendu da"</string>
@@ -838,7 +838,7 @@
     <string name="wifi_hidden_network_warning" msgid="6674068093531603452">"Bideratzaileak ez badu igortzen sarearen IDrik, baina etorkizunean harekin konektatu nahi baduzu, ezkutuko gisa ezar dezakezu sarea.\n\nHorrek segurtasuna arriskuan jar dezake, telefonoak aldian-aldian igorriko baitu seinalea sarea aurkitzeko.\n\nSarea ezkutuko gisa ezartzeak ez ditu aldatuko bideratzailearen ezarpenak."</string>
     <string name="wifi_signal" msgid="5514120261628065287">"Seinalearen indarra"</string>
     <string name="wifi_status" msgid="4824568012414605414">"Egoera"</string>
-    <string name="wifi_speed" msgid="3526198708812322037">"Estekatze-abiadura"</string>
+    <string name="wifi_speed" msgid="3526198708812322037">"Lotura-abiadura"</string>
     <string name="wifi_frequency" msgid="7791090119577812214">"Frekuentzia"</string>
     <string name="wifi_ip_address" msgid="1440054061044402918">"IP helbidea"</string>
     <string name="passpoint_label" msgid="6381371313076009926">"Honen bidez gorde da:"</string>
@@ -856,6 +856,7 @@
     <string name="wifi_ap_choose_auto" msgid="2677800651271769965">"Automatikoa"</string>
     <string name="wifi_ap_choose_2G" msgid="8724267386885036210">"2,4 GHz-ko banda"</string>
     <string name="wifi_ap_choose_5G" msgid="8813128641914385634">"5,0 GHz-ko banda"</string>
+    <string name="wifi_ap_prefer_5G" msgid="2501070491623803139">"5,0 GHz-ko banda hobetsia"</string>
     <string name="wifi_ap_2G" msgid="8378132945192979364">"2,4 GHz"</string>
     <string name="wifi_ap_5G" msgid="4020713496716329468">"5,0 GHz"</string>
     <string name="wifi_ap_band_select_one" msgid="3476254666116431650">"Aukeratu gutxienez banda bat Wi-Fi sare publikorako:"</string>
@@ -1067,7 +1068,7 @@
     <string name="color_mode_option_natural" msgid="5013837483986772758">"Naturalak"</string>
     <string name="color_mode_option_boosted" msgid="8588223970257287524">"Nabarmenduak"</string>
     <string name="color_mode_option_saturated" msgid="4569683960058798843">"Saturatuak"</string>
-    <string name="color_mode_option_automatic" msgid="8781254568140509331">"Automatikoa"</string>
+    <string name="color_mode_option_automatic" msgid="7996505473528529568">"Doigarria"</string>
     <string name="color_mode_summary_natural" msgid="6624188642920403099">"Erabili kolore errealistak soilik"</string>
     <string name="color_mode_summary_automatic" msgid="4669516973360709431">"Doitu kolore bizi eta errealisten artean"</string>
     <string name="accelerometer_summary_on" product="tablet" msgid="429982132339828942">"Aldatu orientazioa automatikoki tableta biratzean"</string>
@@ -1914,9 +1915,9 @@
     <string name="builtin_keyboard_settings_summary" msgid="2392531685358035899">"Teklatu fisikoaren ezarpenak"</string>
     <string name="gadget_picker_title" msgid="98374951396755811">"Aukeratu gadgeta"</string>
     <string name="widget_picker_title" msgid="9130684134213467557">"Aukeratu widgeta"</string>
-    <string name="allow_bind_app_widget_activity_allow_bind_title" msgid="2538303018392590627">"Widgeta sortu eta sarbidea baimendu?"</string>
+    <string name="allow_bind_app_widget_activity_allow_bind_title" msgid="2538303018392590627">"Widgeta sortu eta sartzeko baimena eman?"</string>
     <string name="allow_bind_app_widget_activity_allow_bind" msgid="1584388129273282080">"Widgeta sortu ondoren, <xliff:g id="WIDGET_HOST_NAME">%1$s</xliff:g> ostalariak bistaratzen dituen datu guztiak atzitu ahal izango ditu."</string>
-    <string name="allow_bind_app_widget_activity_always_allow_bind" msgid="7037503685859688034">"Baimendu beti <xliff:g id="WIDGET_HOST_NAME">%1$s</xliff:g> ostalariari widgetak sortzea eta haietako datuak atzitzea"</string>
+    <string name="allow_bind_app_widget_activity_always_allow_bind" msgid="7037503685859688034">"Eman baimena beti widgetak sortzeko eta haietako datuak atzitzeko <xliff:g id="WIDGET_HOST_NAME">%1$s</xliff:g> ostalariari"</string>
     <string name="usage_stats_label" msgid="5890846333487083609">"Erabilera-estatistikak"</string>
     <string name="testing_usage_stats" msgid="7823048598893937339">"Erabilera-estatistikak"</string>
     <string name="display_order_text" msgid="8592776965827565271">"Ordenatzeko irizpidea:"</string>
@@ -1975,13 +1976,13 @@
     <string name="accessibility_caption_master_switch_title" msgid="4010227386676077826">"Erabili azpitituluak"</string>
     <string name="accessibility_hearingaid_title" msgid="8312145423610648518">"Audiofonoak"</string>
     <string name="accessibility_hearingaid_not_connected_summary" msgid="6240237523789614599">"Ez dago audiofonorik konektatuta"</string>
-    <string name="accessibility_hearingaid_adding_summary" msgid="6371077608778830020">"Gehitu audiofonoa"</string>
+    <string name="accessibility_hearingaid_adding_summary" msgid="6371077608778830020">"Gehitu audifonoa"</string>
     <string name="accessibility_hearingaid_pair_instructions_first_message" msgid="3912093691643131154">"Audiofonoak parekatzeko, bilatu eta sakatu gailua hurrengo pantailan."</string>
     <string name="accessibility_hearingaid_pair_instructions_second_message" msgid="5596683393607650243">"Ziurtatu audiofonoak parekatze moduan daudela."</string>
     <string name="accessibility_hearingaid_active_device_summary" msgid="1246354030808703545">"<xliff:g id="DEVICE_NAME">%1$s</xliff:g> aktibo dago"</string>
     <plurals name="show_number_hearingaid_count" formatted="false" msgid="3160782397139295486">
-      <item quantity="other"><xliff:g id="NUMBER_DEVICE_COUNT_1">%1$d</xliff:g> audiofono gorde dira</item>
-      <item quantity="one"><xliff:g id="NUMBER_DEVICE_COUNT_0">%1$d</xliff:g> audiofono gorde da</item>
+      <item quantity="other"><xliff:g id="NUMBER_DEVICE_COUNT_1">%1$d</xliff:g> audifono gorde dira</item>
+      <item quantity="one"><xliff:g id="NUMBER_DEVICE_COUNT_0">%1$d</xliff:g> audifono gorde da</item>
     </plurals>
     <string name="accessibility_summary_state_enabled" msgid="7914278500885887763">"Aktibatuta"</string>
     <string name="accessibility_summary_state_disabled" msgid="2984230257590246745">"Desaktibatuta"</string>
@@ -2251,7 +2252,7 @@
     <string name="power_unaccounted" msgid="709925017022660740">"Askotarikoak"</string>
     <string name="power_overcounted" msgid="2762354976171358445">"Uste baino gutxiago erabili da"</string>
     <string name="usage_type_cpu" msgid="715162150698338714">"PUZaren erabilera, guztira"</string>
-    <string name="usage_type_cpu_foreground" msgid="6500579611933211831">"CPUaren aurreko planoa"</string>
+    <string name="usage_type_cpu_foreground" msgid="6500579611933211831">"PUZaren aurreko planoa"</string>
     <string name="usage_type_wake_lock" msgid="5125438890233677880">"Mantendu aktibo"</string>
     <string name="usage_type_gps" msgid="7989688715128160790">"GPS"</string>
     <string name="usage_type_wifi_running" msgid="3134357198266380400">"Wi-Fia exekutatzen"</string>
@@ -2854,7 +2855,7 @@
     <string name="help_label" msgid="6886837949306318591">"Laguntza eta iritziak"</string>
     <string name="support_summary" msgid="2705726826263742491">"Laguntza-artikuluak, telefono eta txat bidezko laguntza, lehen urratsen gidak"</string>
     <string name="user_account_title" msgid="1127193807312271167">"Edukia gordetzeko kontua"</string>
-    <string name="user_picture_title" msgid="7297782792000291692">"Argazkiaren IDa"</string>
+    <string name="user_picture_title" msgid="7297782792000291692">"Nortasun-agiri argazkiduna"</string>
     <string name="extreme_threats_title" msgid="6549541803542968699">"Mehatxu oso larriak"</string>
     <string name="extreme_threats_summary" msgid="8777860706500920667">"Jaso bizitza eta jabetzen aurkako mehatxu oso larrien alertak"</string>
     <string name="severe_threats_title" msgid="8362676353803170963">"Mehatxu larriak"</string>
@@ -3163,7 +3164,7 @@
     <string name="zen_sound_two_allowed" msgid="980491120444358550">"Audioa eta dardara desaktibatuta, baina baimendu <xliff:g id="SOUND_TYPE_0">%1$s</xliff:g> eta <xliff:g id="SOUND_TYPE_1">%2$s</xliff:g>"</string>
     <string name="zen_sound_three_allowed" msgid="3455767205934547985">"Audioa eta dardara desaktibatuta, baina baimendu <xliff:g id="SOUND_TYPE_0">%1$s</xliff:g>, <xliff:g id="SOUND_TYPE_1">%2$s</xliff:g> eta <xliff:g id="SOUND_TYPE_2">%3$s</xliff:g>"</string>
     <string name="zen_msg_event_reminder_title" msgid="5137894077488924820">"Mezuak, gertaerak eta abisuak"</string>
-    <string name="zen_msg_event_reminder_footer" msgid="3242847055412790819">"\"Ez molestatu\" modua aktibatuta dagoenean, mezu, abisu eta gertaeren audioa eta dardara desaktibatuta egongo dira, goian baimendutako elementuetan izan ezik. Ezarpenak alda ditzakezu lagunak, familia edo beste kontaktuak zurekin harremanetan jarri ahal daitezen."</string>
+    <string name="zen_msg_event_reminder_footer" msgid="4376930591019535192">"\"Ez molestatu\" modua aktibatuta dagoenean, mezu, abisu eta gertaeren audioa eta dardara desaktibatuta egongo dira, goian baimendutako elementuetan izan ezik. Ezarpenak alda ditzakezu lagunak, familia edo beste kontaktuak zurekin harremanetan jarri ahal daitezen."</string>
     <string name="zen_onboarding_ok" msgid="6131211000824433013">"Eginda"</string>
     <string name="zen_onboarding_settings" msgid="9046451821239946868">"Ezarpenak"</string>
     <string name="zen_onboarding_new_setting_title" msgid="1893095176110470711">"Ez egin soinurik eta ez erakutsi ezer jakinarazpenak jasotzean"</string>
@@ -3652,7 +3653,7 @@
     <string name="system_alert_window_access_title" msgid="6297115362542361241">"Beste aplikazioen gainean bistaratzea"</string>
     <string name="permit_draw_overlay" msgid="7456536798718633432">"Baimendu beste aplikazioen gainean bistaratzea"</string>
     <string name="allow_overlay_description" msgid="8961670023925421358">"Baimendu aplikazioari erabiltzen ari zaren aplikazioen gainean agertzea. Eginbide honek abian diren aplikazioen erabilera oztopa dezake, edo haien itxura edo portaera aldatu."</string>
-    <string name="keywords_vr_listener" msgid="7441221822576384680">"eb errealitate birtuala estereoa laguntzailea laguntza zerbitzua"</string>
+    <string name="keywords_vr_listener" msgid="7441221822576384680">"eb errealitate birtuala hautemailea estereoa laguntzailea laguntza zerbitzua"</string>
     <string name="keywords_system_alert_window" msgid="5049498015597864850">"sistema alerta leiho koadro bistaratu beste aplikazio gainean"</string>
     <string name="overlay_settings" msgid="6930854109449524280">"Bistaratu aplikazioen gainean"</string>
     <string name="system_alert_window_summary" msgid="602892301318324492">"<xliff:g id="COUNT_0">%1$d</xliff:g>/<xliff:g id="COUNT_1">%2$d</xliff:g> aplikaziok dute besteen gainean bistaratzeko baimena"</string>
@@ -4071,7 +4072,7 @@
     <string name="storage_other_apps" msgid="5524321740031718083">"Beste aplikazio batzuk"</string>
     <string name="storage_files" msgid="8581083146777364063">"Fitxategiak"</string>
     <string name="storage_size_large_alternate" msgid="3395208658399637645">"<xliff:g id="NUMBER">^1</xliff:g>"<small>" "<font size="20">"<xliff:g id="UNIT">^2</xliff:g>"</font></small>""</string>
-    <string name="storage_volume_total" msgid="3499221850532701342">"Memoria osotik (<xliff:g id="TOTAL">%1$s</xliff:g>) erabilitakoa"</string>
+    <string name="storage_volume_total" msgid="3499221850532701342">"/ <xliff:g id="TOTAL">%1$s</xliff:g> erabilita"</string>
     <string name="storage_percent_full" msgid="6095012055875077036">"erabilita"</string>
     <string name="clear_instant_app_data" msgid="2004222610585890909">"Garbitu aplikazioa"</string>
     <string name="clear_instant_app_confirmation" msgid="7451671214898856857">"Zuzeneko aplikazio hau kendu nahi duzu?"</string>
